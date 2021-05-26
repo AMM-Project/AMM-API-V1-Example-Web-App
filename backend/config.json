@@ -1,0 +1,5 @@
+{
+    "AMMhost": "<host amm>",
+    "clientId": "<client id>",
+    "clientSecret" : "<client secret>"
+}
