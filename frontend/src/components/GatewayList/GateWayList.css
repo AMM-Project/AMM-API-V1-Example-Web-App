@@ -1,0 +1,31 @@
+.lister{
+    margin-left: 57px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 20%;
+    background-color: bisque;
+    float: left;
+}
+
+.map{
+    float: left;
+}
+
+.search {
+    float: left;
+    margin-top: -5px;
+    margin-left: 15px;
+}
+
+.spinner {
+    margin-left: 15px;
+    margin-top: 5px;
+    margin-bottom: auto;
+    width: 70%;
+    float: left;
+}
+
+.overflow{
+    overflow-y: auto;
+    width: 100%;
+}

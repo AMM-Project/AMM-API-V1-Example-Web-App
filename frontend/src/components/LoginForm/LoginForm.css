@@ -1,0 +1,14 @@
+.LoginForm {
+    position: fixed;
+    top: 30%;
+    left: 45%;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    width:100%;
+}
